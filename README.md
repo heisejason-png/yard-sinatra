@@ -65,3 +65,4 @@ Thanks
 * Ryan Sobol for implementing `not_found` documentation.
 * Loren Segal for making it seamlessly work as YARD plugin.
   Well, and for YARD.
+Created by Jason Scott Heise
